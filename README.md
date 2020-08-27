@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Spotify](https://nikhilnanda21.vercel.app/api/spotify)](https://open.spotify.com/user/nikhilnanda21)
+[![Spotify](https://21txypdik6gbafbnxdljs2vbi
+.vercel.app/api/spotify)](https://open.spotify.com/user/21txypdik6gbafbnxdljs2vbi
+)
 
