@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 .vercel.app/api/spotify)](https://open.spotify.com/user/21txypdik6gbafbnxdljs2vbi
 )-->
 
+[![Spotify](https://novatoremwithrefresh.vercel.app/api/spotify)](https://open.spotify.com/user/21txypdik6gbafbnxdljs2vbi)
+
+
