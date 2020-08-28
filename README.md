@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 [![Spotify](https://novatoremwithrefresh.vercel.app/api/spotify)](https://open.spotify.com/user/21txypdik6gbafbnxdljs2vbi)
 
 
+<!--[![Visits](https://badges.pufler.dev/visits/nikhilnanda21/nikhilnanda21?logo=GitHub&label=github%20visits&color=blue&logoColor=white&style=flat-square)](https://github.com/nikhilnanda21)-->
